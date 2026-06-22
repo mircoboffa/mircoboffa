@@ -5,7 +5,7 @@
 </div>
 My name is Mirco Boffa.
 
-I'm currently an high school student learning applied mathematics.
+I'm currently a high school student learning applied mathematics.
 
 I enjoy building applications, contributing to projects, and gaining experience throughout my journey.
 
